@@ -1,4 +1,4 @@
-VERSION="$WERCKER_GOA_VERSION"
+VERSION="$WERCKER_INSTALL_GOA_VERSION"
 
 go get -u github.com/goadesign/goa
 go get -u github.com/goadesign/goa/goagen
