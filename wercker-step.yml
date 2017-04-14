@@ -1,0 +1,7 @@
+name: install-goa
+description: install goa
+version: 0.0.1
+properties:
+  version:
+    type: string
+
